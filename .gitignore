@@ -1,0 +1,7 @@
+*.log
+logs/*
+.idea/*
+.netbeans
+nbactions.xml
+nbactions-release-profile.xml
+target/*
