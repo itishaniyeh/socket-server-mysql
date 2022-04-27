@@ -1,5 +1,5 @@
 # socket-server-mysql
-a simple TCP socket server connected to mysql
+a simple multi-thread TCP socket server connected to mysql
 
 ## how to run
 1. clone the repository on your local machine. 
